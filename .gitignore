@@ -1,0 +1,7 @@
+build/
+*.exe
+*.o
+inventory.db
+receipts/
+products_export.csv
+setenv.bat
